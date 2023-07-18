@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+    <!-- A124 -->
+    <ModelMatchRule TypeCode="A124" ModelName="A124ADB" />
+    <!-- A225 -->
+    <ModelMatchRule TypeCode="A225" ModelName="A225ADB" />  
+    <!-- A30B -->
+    <ModelMatchRule CallsignPrefix="LOL" TypeCode="A30B" ModelName="A30BLOL" />
+    <!-- A306 -->
+    <ModelMatchRule CallsignPrefix="AAW" TypeCode="A306" ModelName="A306AAW" />
+    <ModelMatchRule CallsignPrefix="AHK" TypeCode="A306" ModelName="A306AHK" />
+    <ModelMatchRule CallsignPrefix="BCS" TypeCode="A306" ModelName="A306BCS" />
+    <ModelMatchRule CallsignPrefix="FDX" TypeCode="A306" ModelName="A306FDX" />
+    <ModelMatchRule CallsignPrefix="IBR" TypeCode="A306" ModelName="A306IBR" />
+    <ModelMatchRule CallsignPrefix="IRA" TypeCode="A306" ModelName="A306IRA//A306IRA2" />
+    <ModelMatchRule CallsignPrefix="IRB" TypeCode="A306" ModelName="A306IRB" />
+    <ModelMatchRule CallsignPrefix="IRM" TypeCode="A306" ModelName="A306IRM" />
+    <ModelMatchRule CallsignPrefix="MNG" TypeCode="A306" ModelName="A306MNG" />
+    <ModelMatchRule CallsignPrefix="SUD" TypeCode="A306" ModelName="A306SUD" />
+    <ModelMatchRule CallsignPrefix="THA" TypeCode="A306" ModelName="A306THA//A306THA2//A306THA3" />
+    <ModelMatchRule CallsignPrefix="UPS" TypeCode="A306" ModelName="A306UPS" />
+    <ModelMatchRule CallsignPrefix="VIA" TypeCode="A306" ModelName="A306VIA" />
+    <ModelMatchRule CallsignPrefix="VRG" TypeCode="A306" ModelName="A306VRG" />
+    <!-- A310 -->
+    <ModelMatchRule CallsignPrefix="AFG" TypeCode="A310" ModelName="A310AFG" />
+    <ModelMatchRule CallsignPrefix="AFL" TypeCode="A310" ModelName="A310AFL" />
+    <ModelMatchRule CallsignPrefix="AFR" TypeCode="A310" ModelName="A310AFR" />
+    <ModelMatchRule CallsignPrefix="AIB" TypeCode="A310" ModelName="A310AIB" />
+    <ModelMatchRule CallsignPrefix="AIC" TypeCode="A310" ModelName="A310AIC" />
+    <ModelMatchRule CallsignPrefix="AJM" TypeCode="A310" ModelName="A310AJM" />
+    <ModelMatchRule CallsignPrefix="AME" TypeCode="A310" ModelName="A310AME" />
+    <ModelMatchRule CallsignPrefix="ANG" TypeCode="A310" ModelName="A310ANG" />
+    <ModelMatchRule CallsignPrefix="ARG" TypeCode="A310" ModelName="A310ARG//A310ARG2" />
+    <ModelMatchRule CallsignPrefix="BAF" TypeCode="A310" ModelName="A310BAF" />
+    <ModelMatchRule CallsignPrefix="BBC" TypeCode="A310" ModelName="A310BBC" />
+    <ModelMatchRule CallsignPrefix="CES" TypeCode="A310" ModelName="A310CES" />
+    <ModelMatchRule CallsignPrefix="CFC" TypeCode="A310" ModelName="A310CFC//A310CFC2//A310CFC3" />
+    <ModelMatchRule CallsignPrefix="CFG" TypeCode="A310" ModelName="A310CFG//A310CFG2" />
+    <ModelMatchRule CallsignPrefix="CSA" TypeCode="A310" ModelName="A310CSA//A310CSA2" />
+    <ModelMatchRule CallsignPrefix="CYM" TypeCode="A310" ModelName="A310CYM" />
+    <ModelMatchRule CallsignPrefix="DAH" TypeCode="A310" ModelName="A310DAH" />
+    <ModelMatchRule CallsignPrefix="DAL" TypeCode="A310" ModelName="A310DAL" />
+    <ModelMatchRule CallsignPrefix="DLH" TypeCode="A310" ModelName="A310DLH//A310DLH2//A310DLH3//A310DLH4//A310DLH5" />
+    <ModelMatchRule CallsignPrefix="FAF" TypeCode="A310" ModelName="A310FAF" />
+    <ModelMatchRule CallsignPrefix="FDX" TypeCode="A310" ModelName="A310FDX" />
+    <ModelMatchRule CallsignPrefix="GAF" TypeCode="A310" ModelName="A310GAF//A310GAF2" />
+    <ModelMatchRule CallsignPrefix="HLF" TypeCode="A310" ModelName="A310HLF//A310HLFTUI" />
+    <ModelMatchRule CallsignPrefix="IRA" TypeCode="A310" ModelName="A310IRA//A310IRA2" />
+    <ModelMatchRule CallsignPrefix="IRM" TypeCode="A310" ModelName="A310IRM" />
+    <ModelMatchRule CallsignPrefix="KAC" TypeCode="A310" ModelName="A310KAC" />
+    <ModelMatchRule CallsignPrefix="KZU" TypeCode="A310" ModelName="A310KZUCRG" />
+    <ModelMatchRule CallsignPrefix="LNI" TypeCode="A310" ModelName="A310LNI" />
+    <ModelMatchRule CallsignPrefix="LNI" TypeCode="A310" ModelName="A310LNI" />
+    <ModelMatchRule CallsignPrefix="MAS" TypeCode="A310" ModelName="A310MAS" />
+    <ModelMatchRule CallsignPrefix="MEA" TypeCode="A310" ModelName="A310MEA//A310MEA2" />
+    <ModelMatchRule CallsignPrefix="PAA" TypeCode="A310" ModelName="A310PAA" />
+    <ModelMatchRule CallsignPrefix="PIA" TypeCode="A310" ModelName="A310PIA" />
+    <ModelMatchRule CallsignPrefix="PTB" TypeCode="A310" ModelName="A310PTB" />
+    <ModelMatchRule CallsignPrefix="QAF" TypeCode="A310" ModelName="A310QAF//A310QAF2" />
+    <ModelMatchRule CallsignPrefix="QTR" TypeCode="A310" ModelName="A310QTR" />
+    <ModelMatchRule CallsignPrefix="RBA" TypeCode="A310" ModelName="A310RBA" />
+    <ModelMatchRule CallsignPrefix="RJA" TypeCode="A310" ModelName="A310RJA//A310RJA2//A310RJA3" />
+    <ModelMatchRule CallsignPrefix="SAT" TypeCode="A310" ModelName="A310SAT" />
+    <ModelMatchRule CallsignPrefix="SBI" TypeCode="A310" ModelName="A310SBI//A310SBI2" />
+    <ModelMatchRule CallsignPrefix="SIA" TypeCode="A310" ModelName="A310SIA" />
+    <ModelMatchRule CallsignPrefix="SLK" TypeCode="A310" ModelName="A310SLK" />
+    <ModelMatchRule CallsignPrefix="SUD" TypeCode="A310" ModelName="A310SUD" />
+    <ModelMatchRule CallsignPrefix="SWR" TypeCode="A310" ModelName="A310SWR" />
+    <ModelMatchRule CallsignPrefix="TBN" TypeCode="A310" ModelName="A310TBN" />
+    <ModelMatchRule CallsignPrefix="THA" TypeCode="A310" ModelName="A310THA//A310THA2" />
+    <ModelMatchRule CallsignPrefix="TSC" TypeCode="A310" ModelName="A310TSC" />
+    <ModelMatchRule CallsignPrefix="TUI" TypeCode="A310" ModelName="A310HLFTUI" />
+    <ModelMatchRule CallsignPrefix="UAE" TypeCode="A310" ModelName="A310UAE" />
+    <ModelMatchRule CallsignPrefix="UZB" TypeCode="A310" ModelName="A310UZB" />
+    <ModelMatchRule CallsignPrefix="VSP" TypeCode="A310" ModelName="A310VSP" />
+    <ModelMatchRule CallsignPrefix="WHT" TypeCode="A310" ModelName="A310WHT" />
+    <ModelMatchRule CallsignPrefix="WTJ" TypeCode="A310" ModelName="A310WTJ" />
+    <ModelMatchRule TypeCode="A310" ModelName="A310AIB" />
+    <!-- BAE-146 -->
+    <ModelMatchRule TypeCode="B461" ModelName="B461" />
+    <ModelMatchRule TypeCode="B462" ModelName="B462" />
+    <ModelMatchRule TypeCode="B463" ModelName="B463" />
+    <!-- B190 -->
+    <ModelMatchRule CallsignPrefix="ABS" TypeCode="B190" ModelName="B190ABS" />
+    <ModelMatchRule CallsignPrefix="AIP" TypeCode="B190" ModelName="B190AIP" />
+    <!-- B712 -->
+    <ModelMatchRule CallsignPrefix="DAL" TypeCode="B712" ModelName="B712DAL" />
+    <ModelMatchRule CallsignPrefix="HAL" TypeCode="B712" ModelName="B712HAL" />
+    <ModelMatchRule CallsignPrefix="HAL" TypeCode="B712" ModelName="B712OCA" />
+    <ModelMatchRule CallsignPrefix="QLK" TypeCode="B712" ModelName="B712QLK//B712QLK2" />
+    <ModelMatchRule CallsignPrefix="VOE" TypeCode="B712" ModelName="B712VOE" />
+    <!-- B722 -->
+    <ModelMatchRule CallsignPrefix="AAL" TypeCode="B722" ModelName="B722AAL" />
+    <ModelMatchRule CallsignPrefix="ACP" TypeCode="B722" ModelName="B722ACP" />
+    <ModelMatchRule CallsignPrefix="ARG" TypeCode="B722" ModelName="B722ARG" />
+    <ModelMatchRule CallsignPrefix="CNT" TypeCode="B722" ModelName="B722CNT" />
+    <ModelMatchRule CallsignPrefix="IFL" TypeCode="B722" ModelName="B722IFL" />
+    <ModelMatchRule CallsignPrefix="JUS" TypeCode="B722" ModelName="B722JUS" />
+    <ModelMatchRule CallsignPrefix="KII" TypeCode="B722" ModelName="B722KII//B722KII2//B722KII3//B722KIIWL//B722KIIWL2" />
+    <ModelMatchRule CallsignPrefix="KRE" TypeCode="B722" ModelName="B722KRE" />
+    <ModelMatchRule CallsignPrefix="LAU" TypeCode="B722" ModelName="B722LAU" />
+    <ModelMatchRule CallsignPrefix="LMY" TypeCode="B722" ModelName="B722LMY" />
+    <ModelMatchRule CallsignPrefix="QCL" TypeCode="B722" ModelName="B722QCL" />
+    <ModelMatchRule CallsignPrefix="TLL" TypeCode="B722" ModelName="B722TLL" />
+    <ModelMatchRule CallsignPrefix="TLR" TypeCode="B722" ModelName="B722TLR" />
+    <ModelMatchRule CallsignPrefix="TSU" TypeCode="B722" ModelName="B722TSU" />
+    <ModelMatchRule TypeCode="B722" ModelName="B722" />
+    <ModelMatchRule TypeCode="B721" ModelName="B722" />
+    <!-- B732 -->
+    <ModelMatchRule CallsignPrefix="AAH" TypeCode="B732" ModelName="B732AAH" />
+    <ModelMatchRule CallsignPrefix="AZW" TypeCode="B732" ModelName="B732AZW" />
+    <ModelMatchRule CallsignPrefix="CNT" TypeCode="B732" ModelName="B732CNT" />
+    <ModelMatchRule CallsignPrefix="CTN" TypeCode="B732" ModelName="B732CTN" />
+    <ModelMatchRule CallsignPrefix="KRE" TypeCode="B732" ModelName="B732KRE" />
+    <ModelMatchRule CallsignPrefix="NAC" TypeCode="B732" ModelName="B732NAC" />
+    <ModelMatchRule CallsignPrefix="NRL" TypeCode="B732" ModelName="B732NRL" />
+    <ModelMatchRule CallsignPrefix="VSP" TypeCode="B732" ModelName="B732NRL" />
+    <ModelMatchRule TypeCode="B732" ModelName="B732" />
+    <!-- B733 -->
+    <ModelMatchRule CallsignPrefix="AAH" TypeCode="B733" ModelName="B733AAH" />
+    <ModelMatchRule CallsignPrefix="AEW" TypeCode="B733" ModelName="B733AEW" />
+    <ModelMatchRule CallsignPrefix="AKT" TypeCode="B733" ModelName="B733AKT" />
+    <ModelMatchRule CallsignPrefix="ASL" TypeCode="B733" ModelName="B733ASL" />
+    <ModelMatchRule CallsignPrefix="AVJ" TypeCode="B733" ModelName="B733AVJ" />
+    <ModelMatchRule CallsignPrefix="AWC" TypeCode="B733" ModelName="B733AWC" />
+    <ModelMatchRule CallsignPrefix="AWC" TypeCode="B733" ModelName="B733AWC" />
+    <ModelMatchRule CallsignPrefix="AWK" TypeCode="B733" ModelName="B733AWk" />
+    <ModelMatchRule CallsignPrefix="AZM" TypeCode="B733" ModelName="B733AZM" />
+    <ModelMatchRule CallsignPrefix="BDR" TypeCode="B733" ModelName="B733BDR" />
+    <ModelMatchRule CallsignPrefix="BLA" TypeCode="B733" ModelName="B733BLA" />
+    <ModelMatchRule CallsignPrefix="BTI" TypeCode="B733" ModelName="B733BTI" />
+    <ModelMatchRule CallsignPrefix="CDC" TypeCode="B733" ModelName="B733CDC" />
+    <ModelMatchRule CallsignPrefix="CRZ" TypeCode="B733" ModelName="B733CRZ" />
+    <ModelMatchRule CallsignPrefix="CYZ" TypeCode="B733" ModelName="B733CYZ" />
+    <ModelMatchRule CallsignPrefix="EXS" TypeCode="B733" ModelName="B733EXS" />
+    <ModelMatchRule CallsignPrefix="FBO" TypeCode="B733" ModelName="B733FBO//B733FBO2//B733FBO3" />
+    <ModelMatchRule CallsignPrefix="GMT" TypeCode="B733" ModelName="B733GMT//B733GMTWK" />
+    <ModelMatchRule CallsignPrefix="KMF" TypeCode="B733" ModelName="B733KMFWL" />
+    <ModelMatchRule CallsignPrefix="KMF" TypeCode="B733" ModelName="B733KMF" />
+    <ModelMatchRule CallsignPrefix="KQA" TypeCode="B733" ModelName="B733KQACRG" />
+    <ModelMatchRule CallsignPrefix="KQA" TypeCode="B733" ModelName="B733KQA" />
+    <ModelMatchRule CallsignPrefix="MSA" TypeCode="B733" ModelName="B733MSA" />
+    <ModelMatchRule CallsignPrefix="MYU" TypeCode="B733" ModelName="B733MYU" />
+    <ModelMatchRule CallsignPrefix="NAC" TypeCode="B733" ModelName="B733NAC" />
+    <ModelMatchRule CallsignPrefix="OAL" TypeCode="B733" ModelName="B733OAL" />
+    <ModelMatchRule CallsignPrefix="OEA" TypeCode="B733" ModelName="B733OEA" />
+    <ModelMatchRule CallsignPrefix="QFA" TypeCode="B733" ModelName="B733QFA" />
+    <ModelMatchRule CallsignPrefix="RON" TypeCode="B733" ModelName="B733RON" />
+    <ModelMatchRule CallsignPrefix="RUC" TypeCode="B733" ModelName="B733RUC" />
+    <ModelMatchRule CallsignPrefix="SHH" TypeCode="B733" ModelName="B733SHH" />
+    <ModelMatchRule CallsignPrefix="SID" TypeCode="B733" ModelName="B733SID" />
+    <ModelMatchRule CallsignPrefix="SJY" TypeCode="B733" ModelName="B733SJY" />
+    <ModelMatchRule CallsignPrefix="SWQ" TypeCode="B733" ModelName="B733SWQ" />
+    <ModelMatchRule CallsignPrefix="SWT" TypeCode="B733" ModelName="B733SWT" />
+    <ModelMatchRule CallsignPrefix="TAY" TypeCode="B733" ModelName="B733TAY" />
+    <ModelMatchRule CallsignPrefix="TBC" TypeCode="B733" ModelName="B733TBC" />
+    <ModelMatchRule CallsignPrefix="TCA" TypeCode="B733" ModelName="B733TCA" />
+    <ModelMatchRule CallsignPrefix="VBB" TypeCode="B733" ModelName="B733VBBWL" />
+    <ModelMatchRule CallsignPrefix="VSP" TypeCode="B733" ModelName="B733VSP" />
+    <ModelMatchRule CallsignPrefix="VSV" TypeCode="B733" ModelName="B733VSV" />
+    <ModelMatchRule CallsignPrefix="YZR" TypeCode="B733" ModelName="B733YZR" />
+    <!-- B734 -->
+    <ModelMatchRule CallsignPrefix="AAH" TypeCode="B734" ModelName="B734AAH" />
+    <ModelMatchRule CallsignPrefix="ABR" TypeCode="B734" ModelName="B734ABR" />
+    <ModelMatchRule CallsignPrefix="ACL" TypeCode="B734" ModelName="B734ACL" />
+    <ModelMatchRule CallsignPrefix="AFG" TypeCode="B734" ModelName="B734AFG" />
+    <ModelMatchRule CallsignPrefix="AJK" TypeCode="B734" ModelName="B734AJK" />
+    <ModelMatchRule CallsignPrefix="AWC" TypeCode="B734" ModelName="B734AWC" />
+    <ModelMatchRule CallsignPrefix="AZU" TypeCode="B734" ModelName="B734AZUCRG" />
+    <ModelMatchRule CallsignPrefix="BMS" TypeCode="B734" ModelName="B734BMS" />
+    <ModelMatchRule CallsignPrefix="BRQ" TypeCode="B734" ModelName="B734BRQ" />
+    <ModelMatchRule CallsignPrefix="CAW" TypeCode="B734" ModelName="B734CAW" />
+    <ModelMatchRule CallsignPrefix="CYZ" TypeCode="B734" ModelName="B734CYZ" />
+    <ModelMatchRule CallsignPrefix="FDX" TypeCode="B734" ModelName="B734FDX" />
+    <ModelMatchRule CallsignPrefix="FPO" TypeCode="B734" ModelName="B734FPO" />
+    <ModelMatchRule CallsignPrefix="GHN" TypeCode="B734" ModelName="B734GHN" />
+    <ModelMatchRule CallsignPrefix="HAT" TypeCode="B734" ModelName="B734HAT" />
+    <ModelMatchRule CallsignPrefix="LMA" TypeCode="B734" ModelName="B734LMA" />
+    <ModelMatchRule CallsignPrefix="MAR" TypeCode="B734" ModelName="B734MAR" />
+    <ModelMatchRule CallsignPrefix="MSA" TypeCode="B734" ModelName="B734MSA" />
+    <ModelMatchRule CallsignPrefix="MWM" TypeCode="B734" ModelName="B734MWM" />
+    <ModelMatchRule CallsignPrefix="MYU" TypeCode="B734" ModelName="B734MYU" />
+    <ModelMatchRule CallsignPrefix="NAC" TypeCode="B734" ModelName="B734NAC" />
+    <ModelMatchRule CallsignPrefix="NIG" TypeCode="B734" ModelName="B734NIG" />
+    <ModelMatchRule CallsignPrefix="NPT" TypeCode="B734" ModelName="B734NPT" />
+    <ModelMatchRule CallsignPrefix="OAL" TypeCode="B734" ModelName="B734OAL//B734OAL2//B734OAL3" />
+    <ModelMatchRule CallsignPrefix="OEA" TypeCode="B734" ModelName="B734OEA//B734OEA2" />
+    <ModelMatchRule CallsignPrefix="RER" TypeCode="B734" ModelName="B734RER" />
+    <ModelMatchRule CallsignPrefix="ROI" TypeCode="B734" ModelName="B734ROI" />
+    <ModelMatchRule CallsignPrefix="SFR" TypeCode="B734" ModelName="B734SFR" />
+    <ModelMatchRule CallsignPrefix="SID" TypeCode="B734" ModelName="B734SID" />
+    <ModelMatchRule CallsignPrefix="SJY" TypeCode="B734" ModelName="B734SJY" />
+    <ModelMatchRule CallsignPrefix="SWQ" TypeCode="B734" ModelName="B734SWQ//B734SWQ2" />
+    <ModelMatchRule CallsignPrefix="SWT" TypeCode="B734" ModelName="B734SWT//B734SWT2//B734SWT3" />
+    <ModelMatchRule CallsignPrefix="TAY" TypeCode="B734" ModelName="B734TAY//B734TAY2//B734TAY3" />
+    <ModelMatchRule CallsignPrefix="VAS" TypeCode="B734" ModelName="B734VAS" />
+    <ModelMatchRule CallsignPrefix="WHK" TypeCode="B734" ModelName="B734WHK" />
+    <ModelMatchRule CallsignPrefix="YZR" TypeCode="B734" ModelName="B734YZR" />
+    <ModelMatchRule TypeCode="B734" ModelName="B734BOE" />
+    <!-- B735 -->
+    <ModelMatchRule CallsignPrefix="AFG" TypeCode="B735" ModelName="B735AFG" />
+    <ModelMatchRule CallsignPrefix="ANT" TypeCode="B735" ModelName="B735ANTWL" />
+    <ModelMatchRule CallsignPrefix="AZM" TypeCode="B735" ModelName="B735AZM" />
+    <ModelMatchRule CallsignPrefix="BDR" TypeCode="B735" ModelName="B735BDR" />
+    <ModelMatchRule CallsignPrefix="BHS" TypeCode="B735" ModelName="B735BHS" />
+    <ModelMatchRule CallsignPrefix="BMS" TypeCode="B735" ModelName="B735BMS" />
+    <ModelMatchRule CallsignPrefix="BRQ" TypeCode="B735" ModelName="B735BRQ" />
+    <ModelMatchRule CallsignPrefix="BTI" TypeCode="B735" ModelName="B735BTI" />
+    <ModelMatchRule CallsignPrefix="KLJ" TypeCode="B735" ModelName="B735KLJ" />
+    <ModelMatchRule CallsignPrefix="LAM" TypeCode="B735" ModelName="B735LAM" />
+    <ModelMatchRule CallsignPrefix="LKN" TypeCode="B735" ModelName="B735LKN" />
+    <ModelMatchRule CallsignPrefix="NGT" TypeCode="B735" ModelName="B735NGT" />
+    <ModelMatchRule CallsignPrefix="NIG" TypeCode="B735" ModelName="B735NIG" />
+    <ModelMatchRule CallsignPrefix="RER" TypeCode="B735" ModelName="B735RER" />
+    <ModelMatchRule CallsignPrefix="SJY" TypeCode="B735" ModelName="B735SJYWL" />
+    <ModelMatchRule CallsignPrefix="TBZ" TypeCode="B735" ModelName="B735TBZ" />
+    <ModelMatchRule CallsignPrefix="VSV" TypeCode="B735" ModelName="B735VSV" />
+    <ModelMatchRule TypeCode="B735" ModelName="B735" />
+    <!-- B742 -->
+    <ModelMatchRule CallsignPrefix="AF" TypeCode="B742" ModelName="B742@ULAF1" />
+    <ModelMatchRule CallsignPrefix="ARG" TypeCode="B742" ModelName="B742ARG//B742ARG2" />
+    <ModelMatchRule CallsignPrefix="AZA" TypeCode="B742" ModelName="B742AZA" />
+    <ModelMatchRule CallsignPrefix="GEC" TypeCode="B742" ModelName="B742GEC" />
+    <ModelMatchRule CallsignPrefix="GEL" TypeCode="B742" ModelName="B742GEL//B742GEL2" />
+    <ModelMatchRule CallsignPrefix="IRA" TypeCode="B742" ModelName="B742IRA" />
+    <ModelMatchRule CallsignPrefix="OEA" TypeCode="B742" ModelName="B742OEA" />
+    <ModelMatchRule CallsignPrefix="PVV" TypeCode="B742" ModelName="B742PVV" />
+    <ModelMatchRule CallsignPrefix="THA" TypeCode="B742" ModelName="B742THA" />
+    <ModelMatchRule CallsignPrefix="UTA" TypeCode="B742" ModelName="B742UTA" />
+    <ModelMatchRule CallsignPrefix="VAP" TypeCode="B742" ModelName="B742VAP" />
+    <!-- CONC -->
+    <ModelMatchRule CallsignPrefix="AFR" TypeCode="CONC" ModelName="CONCAFR" />
+    <ModelMatchRule CallsignPrefix="BAW" TypeCode="CONC" ModelName="CONCBAW//CONCBAW2" />
+    <ModelMatchRule TypeCode="CONC" ModelName="CONCAFR//CONCBAW//CONCBAW2" />
+    <!-- CONI -->
+    <ModelMatchRule CallsignPrefix="DLH" TypeCode="CONI" ModelName="CONIDLH" />
+    <!-- DC6 -->
+    <ModelMatchRule CallsignPrefix="AAL" TypeCode="DC6" ModelName="DC6AAL" />
+    <!-- DHC6 -->
+    <ModelMatchRule CallsignPrefix="BEE" TypeCode="DHC6" ModelName="DHC6BEE" />
+    <ModelMatchRule CallsignPrefix="GUY" TypeCode="DHC6" ModelName="DHC6GUY" />
+    <ModelMatchRule CallsignPrefix="LOG" TypeCode="DHC6" ModelName="DHC6LOG" />
+    <ModelMatchRule CallsignPrefix="MWG" TypeCode="DHC6" ModelName="DHC6MWG" />
+    <ModelMatchRule CallsignPrefix="SEY" TypeCode="DHC6" ModelName="DHC6SEY" />
+    <ModelMatchRule CallsignPrefix="TDS" TypeCode="DHC6" ModelName="DHC6TDS" />
+    <!-- DHC7 -->
+    <ModelMatchRule CallsignPrefix="AIZ" TypeCode="DHC7" ModelName="DHC7AIZ" />
+    <ModelMatchRule CallsignPrefix="ALO" TypeCode="DHC7" ModelName="DHC7ALO" />
+    <ModelMatchRule CallsignPrefix="ASE" TypeCode="DHC7" ModelName="DHC7ASE" />
+    <ModelMatchRule CallsignPrefix="AWI" TypeCode="DHC7" ModelName="DHC7AWI" />
+    <ModelMatchRule CallsignPrefix="GRL" TypeCode="DHC7" ModelName="DHC7GRL" />
+    <ModelMatchRule CallsignPrefix="HAL" TypeCode="DHC7" ModelName="DHC7HAL" />
+    <ModelMatchRule CallsignPrefix="ISC" TypeCode="DHC7" ModelName="DHC7ISC" />
+    <ModelMatchRule CallsignPrefix="RMA" TypeCode="DHC7" ModelName="DHC7RMA//DHC7RMA2" />
+    <ModelMatchRule CallsignPrefix="VCV" TypeCode="DHC7" ModelName="DHC7VCV" />
+    <ModelMatchRule CallsignPrefix="WIF" TypeCode="DHC7" ModelName="DHC7WIF" />
+    <!-- E120 -->
+    <ModelMatchRule CallsignPrefix="AMF" TypeCode="E120" ModelName="E120AMF" />
+    <ModelMatchRule CallsignPrefix="SKW" TypeCode="E120" ModelName="E120SKW2//E120SKW4" />
+    <!-- F28 -->
+    <ModelMatchRule TypeCode="F28" ModelName="F70ZZZ" />
+    <!-- F70 -->
+    <ModelMatchRule TypeCode="F70" ModelName="F70ZZZ" />
+    <!-- F100 -->
+    <ModelMatchRule TypeCode="F70" ModelName="f100 SSG" />
+    <!-- IL76 -->
+    <ModelMatchRule CallsignPrefix="AFL" TypeCode="IL76" ModelName="IL76AFL" />
+    <ModelMatchRule CallsignPrefix="CUB" TypeCode="IL76" ModelName="IL76CUB" />
+    <ModelMatchRule TypeCode="IL76" ModelName="IL76ILF" />
+    <!-- JU52 -->
+    <ModelMatchRule TypeCode="JU52" ModelName="JU52" />
+    <!-- MD11 -->
+    <ModelMatchRule CallsignPrefix="AFL" TypeCode="MD11" ModelName="MD11AFL" />
+    <ModelMatchRule CallsignPrefix="CES" TypeCode="MD11" ModelName="MD11CES" />
+    <ModelMatchRule CallsignPrefix="DLH" TypeCode="MD11" ModelName="MD11DLH" />
+    <ModelMatchRule CallsignPrefix="EVA" TypeCode="MD11" ModelName="MD11EVA" />
+    <ModelMatchRule CallsignPrefix="FDX" TypeCode="MD11" ModelName="MD11FDX" />
+    <ModelMatchRule CallsignPrefix="FIN" TypeCode="MD11" ModelName="MD11FIN" />
+    <ModelMatchRule CallsignPrefix="GEC" TypeCode="MD11" ModelName="MD11GEC" />
+    <ModelMatchRule CallsignPrefix="KLM" TypeCode="MD11" ModelName="MD11KLM" />
+    <ModelMatchRule CallsignPrefix="MPH" TypeCode="MD11" ModelName="MD11MPH" />
+    <ModelMatchRule CallsignPrefix="TAM" TypeCode="MD11" ModelName="MD11TAM" />
+    <ModelMatchRule CallsignPrefix="VRG" TypeCode="MD11" ModelName="MD11VRG" />
+    <ModelMatchRule CallsignPrefix="VSP" TypeCode="MD11" ModelName="MD11VSP" />
+    <!-- MD81 -->
+    <ModelMatchRule CallsignPrefix="LER" TypeCode="MD81" ModelName="MD81LER" />
+    <ModelMatchRule CallsignPrefix="LGX" TypeCode="MD81" ModelName="MD81LGX" />
+    <ModelMatchRule CallsignPrefix="OCE" TypeCode="MD81" ModelName="MD81OCE" />
+    <ModelMatchRule CallsignPrefix="OEA" TypeCode="MD81" ModelName="MD81OEA" />
+    <ModelMatchRule CallsignPrefix="OSE" TypeCode="MD81" ModelName="MD81OSE" />
+    <ModelMatchRule CallsignPrefix="REA" TypeCode="MD81" ModelName="MD81REA" />
+    <ModelMatchRule CallsignPrefix="SAS" TypeCode="MD81" ModelName="MD81SAS" />
+    <ModelMatchRule CallsignPrefix="VIA" TypeCode="MD81" ModelName="MD81VIA" />
+    <ModelMatchRule CallsignPrefix="VME" TypeCode="MD81" ModelName="MD81VME" />
+    <ModelMatchRule TypeCode="MD81" ModelName="MD81ZZZ" />
+    <!-- MD82 -->
+    <ModelMatchRule CallsignPrefix="AAL" TypeCode="MD82" ModelName="MD82AAL" />
+    <ModelMatchRule CallsignPrefix="ALV" TypeCode="MD82" ModelName="MD82ALV" />
+    <ModelMatchRule CallsignPrefix="AZA" TypeCode="MD82" ModelName="MD82AZA" />
+    <ModelMatchRule CallsignPrefix="BUC" TypeCode="MD82" ModelName="MD82BUC" />
+    <ModelMatchRule CallsignPrefix="DAL" TypeCode="MD82" ModelName="MD88DAL" />
+    <ModelMatchRule CallsignPrefix="IRA" TypeCode="MD82" ModelName="MD82IRA" />
+    <ModelMatchRule CallsignPrefix="IRB" TypeCode="MD82" ModelName="MD82IRB" />
+    <ModelMatchRule CallsignPrefix="IRS" TypeCode="MD82" ModelName="MD82IRS" />
+    <ModelMatchRule CallsignPrefix="IZG" TypeCode="MD82" ModelName="MD82IZG" />
+    <ModelMatchRule CallsignPrefix="KIS" TypeCode="MD82" ModelName="MD82KIS" />
+    <ModelMatchRule CallsignPrefix="LER" TypeCode="MD82" ModelName="MD82LER//MD82LER2" />
+    <ModelMatchRule CallsignPrefix="PWD" TypeCode="MD82" ModelName="MD82PWD" />
+    <ModelMatchRule CallsignPrefix="REA" TypeCode="MD82" ModelName="MD82REA//MD82REA2//MD82REA3" />
+    <ModelMatchRule CallsignPrefix="SAS" TypeCode="MD82" ModelName="MD82SAS" />
+    <ModelMatchRule CallsignPrefix="VTM" TypeCode="MD82" ModelName="MD82VTM//MD82VTM2" />
+    <ModelMatchRule TypeCode="MD82" ModelName="MD81ZZZ" />
+    <!-- MD83 -->
+    <ModelMatchRule CallsignPrefix="AAL" TypeCode="MD83" ModelName="MD83AAL" />
+    <ModelMatchRule CallsignPrefix="AMJ" TypeCode="MD83" ModelName="MD83AMJ" />
+    <ModelMatchRule CallsignPrefix="AMX" TypeCode="MD83" ModelName="MD83AMX" />
+    <ModelMatchRule CallsignPrefix="ARG" TypeCode="MD83" ModelName="MD83ARG" />
+    <ModelMatchRule CallsignPrefix="ASA" TypeCode="MD83" ModelName="MD83ASA" />
+    <ModelMatchRule CallsignPrefix="DAN" TypeCode="MD83" ModelName="MD83DAN" />
+    <ModelMatchRule CallsignPrefix="DTR" TypeCode="MD83" ModelName="MD83DTR" />
+    <ModelMatchRule CallsignPrefix="FEA" TypeCode="MD83" ModelName="MD83FEA" />
+    <ModelMatchRule CallsignPrefix="JKK" TypeCode="MD83" ModelName="MD83JKK//MD83JKK2//MD83JKK3" />
+    <ModelMatchRule CallsignPrefix="JUS" TypeCode="MD83" ModelName="MD83JUS" />
+    <ModelMatchRule CallsignPrefix="LER" TypeCode="MD83" ModelName="MD83LER//MD83LER2" />
+    <ModelMatchRule CallsignPrefix="OHY" TypeCode="MD83" ModelName="MD83OHY" />
+    <ModelMatchRule CallsignPrefix="PWD" TypeCode="MD83" ModelName="MD83PWD" />
+    <ModelMatchRule CallsignPrefix="SUD" TypeCode="MD83" ModelName="MD83SUD" />
+    <ModelMatchRule CallsignPrefix="SWT" TypeCode="MD83" ModelName="MD83SWT" />
+    <ModelMatchRule CallsignPrefix="VBW" TypeCode="MD83" ModelName="MD83VBW" />
+    <ModelMatchRule CallsignPrefix="VTM" TypeCode="MD83" ModelName="MD83VTM3//MD83VTM4" />
+    <ModelMatchRule CallsignPrefix="VTS" TypeCode="MD83" ModelName="MD83VTS" />
+    <ModelMatchRule CallsignPrefix="WAL" TypeCode="MD83" ModelName="MD83WAL" />
+    <ModelMatchRule TypeCode="MD83" ModelName="MD81ZZZ" />
+    <!-- MD88 -->
+    <ModelMatchRule CallsignPrefix="AAL" TypeCode="MD88" ModelName="MD82AAL" />
+    <ModelMatchRule CallsignPrefix="ARG" TypeCode="MD88" ModelName="MD82ARG" />
+    <ModelMatchRule CallsignPrefix="DAL" TypeCode="MD88" ModelName="MD88DAL" />
+    <ModelMatchRule CallsignPrefix="JUS" TypeCode="MD88" ModelName="MD88JUS" />
+    <ModelMatchRule CallsignPrefix="OHY" TypeCode="MD88" ModelName="MD88OHY" />
+    <ModelMatchRule TypeCode="MD88" ModelName="MD81ZZZ" />
+    <!-- SF34 -->
+    <ModelMatchRule CallsignPrefix="ATK" TypeCode="SF34" ModelName="SF34ATK" />
+    <ModelMatchRule CallsignPrefix="CEY" TypeCode="SF34" ModelName="SF34CEY" />
+    <ModelMatchRule CallsignPrefix="CJC" TypeCode="SF34" ModelName="SF34CJC//SF34CJC2//SF34CJC3" />
+    <ModelMatchRule CallsignPrefix="EGF" TypeCode="SF34" ModelName="SF34EGF" />
+    <ModelMatchRule CallsignPrefix="IGA" TypeCode="SF34" ModelName="SF34IGA//SF34IGA2" />
+    <ModelMatchRule CallsignPrefix="JAC" TypeCode="SF34" ModelName="SF34JAC" />
+    <ModelMatchRule CallsignPrefix="KRL" TypeCode="SF34" ModelName="SF34KRL" />
+    <ModelMatchRule CallsignPrefix="LOG" TypeCode="SF34" ModelName="SF34LOG" />
+    <ModelMatchRule CallsignPrefix="MES" TypeCode="SF34" ModelName="SF34MES" />
+    <ModelMatchRule CallsignPrefix="NTJ" TypeCode="SF34" ModelName="SF34NTJ" />
+    <ModelMatchRule CallsignPrefix="PEN" TypeCode="SF34" ModelName="SF34PEN" />
+    <ModelMatchRule CallsignPrefix="POT" TypeCode="SF34" ModelName="SF34POT" />
+    <ModelMatchRule CallsignPrefix="RXA" TypeCode="SF34" ModelName="SF34RXA" />
+    <ModelMatchRule CallsignPrefix="SBS" TypeCode="SF34" ModelName="SF34SBS" />
+    <ModelMatchRule CallsignPrefix="SIL" TypeCode="SF34" ModelName="SF34SIL" />
+    <ModelMatchRule CallsignPrefix="SLI" TypeCode="SF34" ModelName="SF34SLI" />
+    <ModelMatchRule CallsignPrefix="VCY" TypeCode="SF34" ModelName="SF34VCY" />
+    <!-- IL76 -->
+    <ModelMatchRule CallsignPrefix="AFL" TypeCode="T134" ModelName="T134AFL" />
+    <ModelMatchRule CallsignPrefix="BRU" TypeCode="T134" ModelName="T134BRU" />
+</ModelMatchRuleSet>
