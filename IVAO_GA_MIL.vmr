@@ -12,6 +12,7 @@
     <ModelMatchRule TypeCode="B2" ModelName="B2" />
     <ModelMatchRule TypeCode="B350" ModelName="B350" />
     <ModelMatchRule CallsignPrefix="GAJ" TypeCode="B350" ModelName="B350GAJ" />
+    <ModelMatchRule CallsignPrefix="NOAA" TypeCode="B350" ModelName="B350NOAA" />
     <ModelMatchRule TypeCode="B407" ModelName="B407" />
     <ModelMatchRule TypeCode="BE35" ModelName="BE35" />
     <ModelMatchRule TypeCode="BE36" ModelName="BE36" />
@@ -22,6 +23,10 @@
     <ModelMatchRule TypeCode="C152" ModelName="C152" />
     <ModelMatchRule TypeCode="C172" ModelName="C172" />
     <ModelMatchRule TypeCode="C208" ModelName="C208" />
+    <ModelMatchRule CallsignPrefix="CFS" TypeCode="C208" ModelName="C208FDX" />
+    <ModelMatchRule CallsignPrefix="FDX" TypeCode="C208" ModelName="C208FDX" />
+    <ModelMatchRule CallsignPrefix="PCM" TypeCode="C208" ModelName="C208FDX" />
+    <ModelMatchRule CallsignPrefix="WIG" TypeCode="C208" ModelName="C208FDX" />
     <ModelMatchRule TypeCode="C25A" ModelName="C25A" />
     <ModelMatchRule TypeCode="C25B" ModelName="C25BZZZ" />
     <ModelMatchRule TypeCode="C25C" ModelName="C25CZZZ//C25CEJA" />
@@ -93,5 +98,6 @@
     <ModelMatchRule TypeCode="T38" ModelName="T38" />
     <ModelMatchRule TypeCode="ULAC" ModelName="LONGEZ" />
     <ModelMatchRule TypeCode="V22" ModelName="V22" />
+    <ModelMatchRule TypeCode="VF35" ModelName="F35BUSAF//F35BUSMC//F35BUSN" />
     <ModelMatchRule TypeCode="VL3" ModelName="VL3" />
 </ModelMatchRuleSet>

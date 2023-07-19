@@ -76,6 +76,9 @@
     <ModelMatchRule CallsignPrefix="WHT" TypeCode="A310" ModelName="A310WHT" />
     <ModelMatchRule CallsignPrefix="WTJ" TypeCode="A310" ModelName="A310WTJ" />
     <ModelMatchRule TypeCode="A310" ModelName="A310AIB" />
+    <!-- A346 -->
+    <ModelMatchRule CallsignPrefix="ABD" TypeCode="A346" ModelName="A346ABD" />
+    <ModelMatchRule CallsignPrefix="URO" TypeCode="A346" ModelName="A346URO//A346URO2" />
     <!-- BAE-146 -->
     <ModelMatchRule TypeCode="B461" ModelName="B461" />
     <ModelMatchRule TypeCode="B462" ModelName="B462" />
@@ -84,9 +87,11 @@
     <ModelMatchRule CallsignPrefix="ABS" TypeCode="B190" ModelName="B190ABS" />
     <ModelMatchRule CallsignPrefix="AIP" TypeCode="B190" ModelName="B190AIP" />
     <!-- B712 -->
+    <ModelMatchRule CallsignPrefix="CBE" TypeCode="B712" ModelName="B712CBE" />
     <ModelMatchRule CallsignPrefix="DAL" TypeCode="B712" ModelName="B712DAL" />
     <ModelMatchRule CallsignPrefix="HAL" TypeCode="B712" ModelName="B712HAL" />
-    <ModelMatchRule CallsignPrefix="HAL" TypeCode="B712" ModelName="B712OCA" />
+    <ModelMatchRule CallsignPrefix="JKK" TypeCode="B712" ModelName="B712JKK" />
+    <ModelMatchRule CallsignPrefix="OCA" TypeCode="B712" ModelName="B712OCA" />
     <ModelMatchRule CallsignPrefix="QLK" TypeCode="B712" ModelName="B712QLK//B712QLK2" />
     <ModelMatchRule CallsignPrefix="VOE" TypeCode="B712" ModelName="B712VOE" />
     <!-- B722 -->
@@ -262,11 +267,13 @@
     <!-- F70 -->
     <ModelMatchRule TypeCode="F70" ModelName="F70ZZZ" />
     <!-- F100 -->
-    <ModelMatchRule TypeCode="F70" ModelName="f100 SSG" />
+    <ModelMatchRule CallsignPrefix="CBE" TypeCode="F100" ModelName="F100CBE" />
+    <ModelMatchRule CallsignPrefix="TAM" TypeCode="F100" ModelName="F100TAM" />
+    <ModelMatchRule TypeCode="F70" ModelName="F100 SSG" />
     <!-- IL76 -->
     <ModelMatchRule CallsignPrefix="AFL" TypeCode="IL76" ModelName="IL76AFL" />
     <ModelMatchRule CallsignPrefix="CUB" TypeCode="IL76" ModelName="IL76CUB" />
-    <ModelMatchRule TypeCode="IL76" ModelName="IL76ILF" />
+    <ModelMatchRule TypeCode="IL76" ModelName="IL76@UF" />
     <!-- JU52 -->
     <ModelMatchRule TypeCode="JU52" ModelName="JU52" />
     <!-- MD11 -->
@@ -356,7 +363,8 @@
     <ModelMatchRule CallsignPrefix="SIL" TypeCode="SF34" ModelName="SF34SIL" />
     <ModelMatchRule CallsignPrefix="SLI" TypeCode="SF34" ModelName="SF34SLI" />
     <ModelMatchRule CallsignPrefix="VCY" TypeCode="SF34" ModelName="SF34VCY" />
-    <!-- IL76 -->
+    <!-- T134 -->
     <ModelMatchRule CallsignPrefix="AFL" TypeCode="T134" ModelName="T134AFL" />
-    <ModelMatchRule CallsignPrefix="BRU" TypeCode="T134" ModelName="T134BRU" />
+    <!-- T154 -->
+    <ModelMatchRule CallsignPrefix="BRU" TypeCode="T154" ModelName="T154BRU" />
 </ModelMatchRuleSet>
