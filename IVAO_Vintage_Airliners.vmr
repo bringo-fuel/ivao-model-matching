@@ -269,7 +269,7 @@
     <!-- F100 -->
     <ModelMatchRule CallsignPrefix="CBE" TypeCode="F100" ModelName="F100CBE" />
     <ModelMatchRule CallsignPrefix="TAM" TypeCode="F100" ModelName="F100TAM" />
-    <ModelMatchRule TypeCode="F70" ModelName="F100 SSG" />
+    <ModelMatchRule TypeCode="F100" ModelName="F100 SSG" />
     <!-- IL76 -->
     <ModelMatchRule CallsignPrefix="AFL" TypeCode="IL76" ModelName="IL76AFL" />
     <ModelMatchRule CallsignPrefix="CUB" TypeCode="IL76" ModelName="IL76CUB" />
