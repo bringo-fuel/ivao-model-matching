@@ -82,6 +82,7 @@
     <ModelMatchRule TypeCode="MIR2" ModelName="MIR2CTM//MIR2IFC//MIR2AEAF//MIR2UAF" />
     <ModelMatchRule TypeCode="P28A" ModelName="P28A" />
     <ModelMatchRule TypeCode="P28R" ModelName="P28RZZZ" />
+    <ModelMatchRule TypeCode="PA24" ModelName="PA24//PA24ZZZ2//PA24ZZZ3" />
     <ModelMatchRule TypeCode="PC6P" ModelName="PC6" />
     <ModelMatchRule TypeCode="PC12" ModelName="PC12ZZZ//PC12ZZZ5//PC12ZZZ6//PC12ZZZ7//PC12ZZZ8//PC12ZZZ9" />
     <ModelMatchRule TypeCode="PC21" ModelName="PC21" />

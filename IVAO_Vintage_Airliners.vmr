@@ -263,7 +263,9 @@
     <ModelMatchRule CallsignPrefix="AMF" TypeCode="E120" ModelName="E120AMF" />
     <ModelMatchRule CallsignPrefix="SKW" TypeCode="E120" ModelName="E120SKW2//E120SKW4" />
     <!-- F28 -->
-    <ModelMatchRule TypeCode="F28" ModelName="F70ZZZ" />
+    <ModelMatchRule CallsignPrefix="QXE" TypeCode="F28" ModelName="F28" />
+    <ModelMatchRule CallsignPrefix="REU" TypeCode="F28" ModelName="F28REU" />
+    <ModelMatchRule TypeCode="F28" ModelName="F28" />
     <!-- F70 -->
     <ModelMatchRule TypeCode="F70" ModelName="F70ZZZ" />
     <!-- F100 -->
