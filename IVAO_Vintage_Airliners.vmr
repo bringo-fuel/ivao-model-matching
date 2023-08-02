@@ -327,18 +327,43 @@
     <ModelMatchRule CallsignPrefix="AMF" TypeCode="E120" ModelName="E120AMF" />
     <ModelMatchRule CallsignPrefix="SKW" TypeCode="E120" ModelName="E120SKW2//E120SKW4" />
     <!-- F28 -->
-    <ModelMatchRule CallsignPrefix="QXE" TypeCode="F28" ModelName="F28" />
+    <ModelMatchRule CallsignPrefix="AGN" TypeCode="F28" ModelName="F28AGN" />
+    <ModelMatchRule CallsignPrefix="ANG" TypeCode="F28" ModelName="F28ANG" />
+    <ModelMatchRule CallsignPrefix="ARG" TypeCode="F28" ModelName="F28ARG" />
+    <ModelMatchRule CallsignPrefix="EXY" TypeCode="F28" ModelName="F28EXY" />
+    <ModelMatchRule CallsignPrefix="GHS" TypeCode="F28" ModelName="F28GHS" />
+    <ModelMatchRule CallsignPrefix="GIA" TypeCode="F28" ModelName="F28GIA" />
+    <ModelMatchRule CallsignPrefix="ICD" TypeCode="F28" ModelName="F28ICD" />
+    <ModelMatchRule CallsignPrefix="ILN" TypeCode="F28" ModelName="F28ILN" />
+    <ModelMatchRule CallsignPrefix="JLX" TypeCode="F28" ModelName="F28JLX" />
+    <ModelMatchRule CallsignPrefix="LAA" TypeCode="F28" ModelName="F28LAA" />
+    <ModelMatchRule CallsignPrefix="LDE" TypeCode="F28" ModelName="F28LDE" />
+    <ModelMatchRule CallsignPrefix="MGX" TypeCode="F28" ModelName="F28MGX" />
+    <ModelMatchRule CallsignPrefix="MPE" TypeCode="F28" ModelName="F28MPE" />
+    <ModelMatchRule CallsignPrefix="NGA" TypeCode="F28" ModelName="F28NGA" />
+    <ModelMatchRule CallsignPrefix="QXE" TypeCode="F28" ModelName="F28QXE" />
     <ModelMatchRule CallsignPrefix="REU" TypeCode="F28" ModelName="F28REU" />
-    <ModelMatchRule TypeCode="F28" ModelName="F28" />
+    <ModelMatchRule CallsignPrefix="SAS" TypeCode="F28" ModelName="F28SAS" />
+    <ModelMatchRule CallsignPrefix="TAE" TypeCode="F28" ModelName="F28TAE" />
+    <ModelMatchRule CallsignPrefix="THE" TypeCode="F28" ModelName="F28THE" />
+    <ModelMatchRule CallsignPrefix="VUN" TypeCode="F28" ModelName="F28VUN" />
+    <ModelMatchRule TypeCode="F28" ModelName="F28ZZZ" />
     <!-- F70 -->
     <ModelMatchRule TypeCode="F70" ModelName="F70ZZZ" />
     <!-- F100 -->
     <ModelMatchRule CallsignPrefix="CBE" TypeCode="F100" ModelName="F100CBE" />
     <ModelMatchRule CallsignPrefix="TAM" TypeCode="F100" ModelName="F100TAM" />
+    <ModelMatchRule CallsignPrefix="JKK" TypeCode="F100" ModelName="F100JKK" />
     <ModelMatchRule TypeCode="F100" ModelName="F100 SSG" />
     <!-- IL76 -->
     <ModelMatchRule CallsignPrefix="AFL" TypeCode="IL76" ModelName="IL76AFL" />
+    <ModelMatchRule CallsignPrefix="BDR" TypeCode="IL76" ModelName="IL76BDR" />
     <ModelMatchRule CallsignPrefix="CUB" TypeCode="IL76" ModelName="IL76CUB" />
+    <ModelMatchRule CallsignPrefix="DRU" TypeCode="IL76" ModelName="IL76DRU" />
+    <ModelMatchRule CallsignPrefix="ILF" TypeCode="IL76" ModelName="IL76ILF" />
+    <ModelMatchRule CallsignPrefix="KOR" TypeCode="IL76" ModelName="IL76KOR" />
+    <ModelMatchRule CallsignPrefix="KSM" TypeCode="IL76" ModelName="IL76KSM" />
+    <ModelMatchRule CallsignPrefix="UNO" TypeCode="IL76" ModelName="IL76UNO" />
     <ModelMatchRule TypeCode="IL76" ModelName="IL76@UF" />
     <!-- JU52 -->
     <ModelMatchRule TypeCode="JU52" ModelName="JU52" />

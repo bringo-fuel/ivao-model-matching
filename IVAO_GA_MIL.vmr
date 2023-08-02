@@ -4,10 +4,13 @@
     <ModelMatchRule TypeCode="A124" ModelName="A124ADB" />
     <ModelMatchRule TypeCode="A225" ModelName="A225ADB" />
     <ModelMatchRule TypeCode="A3ST" ModelName="A3STAIB" />
-    <ModelMatchRule TypeCode="A4" ModelName="A4MBR" />
+    <ModelMatchRule TypeCode="A4" ModelName="A4 MBR//A4 IAF//A4 @UN2//A4 @UN3" />
     <ModelMatchRule TypeCode="A5" ModelName="A5" />
-    <ModelMatchRule TypeCode="AN2" ModelName="AN2ZZZ" />
     <ModelMatchRule TypeCode="A400" ModelName="A400BAF//A400FAF//A400GAF//A400RAF//A400SAF//A400HVK//A400UAF" />
+    <ModelMatchRule TypeCode="AN2" ModelName="AN2ZZZ" />
+    <ModelMatchRule TypeCode="AS32" ModelName="AS32SUI" />
+    <ModelMatchRule TypeCode="AS50" ModelName="AS50ZZZ//AS50ZZZ2//AS50ZZZ3" />
+    <ModelMatchRule TypeCode="AS65" ModelName="AS65@UG" />
     <ModelMatchRule TypeCode="B1" ModelName="B1" />
     <ModelMatchRule TypeCode="B2" ModelName="B2" />
     <ModelMatchRule TypeCode="B350" ModelName="B350" />
@@ -16,7 +19,9 @@
     <ModelMatchRule TypeCode="B407" ModelName="B407" />
     <ModelMatchRule TypeCode="BE35" ModelName="BE35" />
     <ModelMatchRule TypeCode="BE36" ModelName="BE36" />
-    <ModelMatchRule TypeCode="BE58" ModelName="BE58" />
+    <ModelMatchRule TypeCode="BE40" ModelName="BE40ZZZ" />
+    <ModelMatchRule TypeCode="BE58" ModelName="BE58ZZZ" />
+    <ModelMatchRule TypeCode="BH06" ModelName="B407" />
     <ModelMatchRule TypeCode="C101" ModelName="C101" />
     <ModelMatchRule TypeCode="C130" ModelName="C130" />
     <ModelMatchRule TypeCode="C30J" ModelName="C130" />
@@ -37,6 +42,14 @@
     <ModelMatchRule TypeCode="C750" ModelName="C750" />
     <ModelMatchRule TypeCode="CC19" ModelName="CC19" />
     <ModelMatchRule TypeCode="CH47" ModelName="CH47USA/CH47USA2//CH47UNO//CH47AME//CH47NFA//CH47RAF//CH47EGY//CH47ROCA//CH47JNTD//CH47JSDF//CH47AMI" />
+    <ModelMatchRule TypeCode="CL30" ModelName="CL30//CL30LXJ" />
+    <ModelMatchRule CallsignPrefix="LXJ" TypeCode="CL30" ModelName="CL30LXJ" />
+    <ModelMatchRule TypeCode="CL35" ModelName="CL35//CL35LXJ//CL35EJA//CL35NJE" />
+    <ModelMatchRule CallsignPrefix="LXJ" TypeCode="CL35" ModelName="CL35LXJ" />
+    <ModelMatchRule CallsignPrefix="EJA" TypeCode="CL35" ModelName="CL35EJA" />
+    <ModelMatchRule CallsignPrefix="NJE" TypeCode="CL35" ModelName="CL35NJE" />
+    <ModelMatchRule TypeCode="CL60" ModelName="CL60//CL60EJA" />
+    <ModelMatchRule CallsignPrefix="EJA" TypeCode="CL60" ModelName="CL60EJA" />
     <ModelMatchRule TypeCode="CN35" ModelName="CN35USAF//CN35@UG" />
     <ModelMatchRule TypeCode="CONI" ModelName="CONIDLH" />
     <ModelMatchRule TypeCode="DA40" ModelName="DA40" />
@@ -46,13 +59,13 @@
     <ModelMatchRule TypeCode="DHC2" ModelName="DHC2" />
     <ModelMatchRule TypeCode="DR40" ModelName="DR40" />
     <ModelMatchRule TypeCode="E2" ModelName="E2USN" />
-    <ModelMatchRule TypeCode="EC75" ModelName="H145" />
-    <ModelMatchRule TypeCode="EC75" ModelName="EC85" />
+    <ModelMatchRule TypeCode="EC45" ModelName="H145" />
+    <ModelMatchRule TypeCode="EC75" ModelName="EC75" />
     <ModelMatchRule TypeCode="E300" ModelName="E300" />
     <ModelMatchRule TypeCode="E55P" ModelName="E55P" />
     <ModelMatchRule TypeCode="EUFI" ModelName="EUFI" />
     <ModelMatchRule TypeCode="F117" ModelName="F117" />
-    <ModelMatchRule TypeCode="F16" ModelName="F16RT//F16@UL//F16@ULTB//F16BAF//F16HEC//F16IDAF//F16@RB//F16UAF//F16@UN" />
+    <ModelMatchRule TypeCode="F16" ModelName="F16 RT//F16 @UL//F16 @ULTB//F16 BAF//F16 HEC//F16 IDAF//F16 @RB//F16 UAF//F16 @UN" />
     <ModelMatchRule TypeCode="F18H" ModelName="F18USN//F18RCAF" />
     <ModelMatchRule TypeCode="F22" ModelName="F22//F22@UL" />
     <ModelMatchRule TypeCode="F35" ModelName="F35BUSAF//F35BUSMC//F35BUSN" />
@@ -62,9 +75,15 @@
     <ModelMatchRule TypeCode="FDCT" ModelName="FDCT" />
     <ModelMatchRule TypeCode="G2CA" ModelName="G2CA" />
     <ModelMatchRule TypeCode="G21T" ModelName="G21T" />
+    <ModelMatchRule TypeCode="GLID" ModelName="GLID" />
     <ModelMatchRule TypeCode="GLEX" ModelName="GLEX//GLEXEJA//GLEXVJT" />
     <ModelMatchRule CallsignPrefix="EJA" TypeCode="GLEX" ModelName="GLEXEJA" />
     <ModelMatchRule CallsignPrefix="VJT" TypeCode="GLEX" ModelName="GLEXVJT" />
+    <ModelMatchRule TypeCode="GLF3" ModelName="GLF3ZZZ" />
+    <ModelMatchRule TypeCode="GLF4" ModelName="GLF4ZZZ" />
+    <ModelMatchRule TypeCode="GLF5" ModelName="GLF5ZZZ5" />
+    <ModelMatchRule TypeCode="GLF6" ModelName="GLF6" />
+    <ModelMatchRule TypeCode="H53" ModelName="H53ZZZ//H53ZZZ2" />
     <ModelMatchRule TypeCode="HAR" ModelName="HAR//HARRAF//HARRN//HARUSMC//HARAOS//HARSN" />
     <ModelMatchRule TypeCode="HDJT" ModelName="HDJT" />
     <ModelMatchRule TypeCode="J3" ModelName="J3ZZZ" />
@@ -82,11 +101,14 @@
     <ModelMatchRule TypeCode="MIR2" ModelName="MIR2CTM//MIR2IFC//MIR2AEAF//MIR2UAF" />
     <ModelMatchRule TypeCode="P28A" ModelName="P28A" />
     <ModelMatchRule TypeCode="P28R" ModelName="P28RZZZ" />
+    <ModelMatchRule TypeCode="P8" ModelName="P8USN//P8IFC//P8RAAF//P8KIW//P8NOW" />
     <ModelMatchRule TypeCode="PA24" ModelName="PA24//PA24ZZZ2//PA24ZZZ3" />
     <ModelMatchRule TypeCode="PC6P" ModelName="PC6" />
     <ModelMatchRule TypeCode="PC12" ModelName="PC12ZZZ//PC12ZZZ5//PC12ZZZ6//PC12ZZZ7//PC12ZZZ8//PC12ZZZ9" />
     <ModelMatchRule TypeCode="PC21" ModelName="PC21" />
     <ModelMatchRule TypeCode="PTS1" ModelName="PTS1" />
+    <ModelMatchRule TypeCode="R22" ModelName="R22" />
+    <ModelMatchRule TypeCode="R44" ModelName="R44" />
     <ModelMatchRule TypeCode="RFAL" ModelName="RFALFAF//RFALFNY" />
     <ModelMatchRule TypeCode="S05R" ModelName="S05RIAM" />
     <ModelMatchRule TypeCode="S208" ModelName="S208IAM" />
