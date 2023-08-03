@@ -1,2 +1,2 @@
-# Vintage Airliner / General Aviation / Military vPilot + PilotEdge Model Matching
+# Vintage Airliner / General Aviation / Military Model Matching for Vatsim vPilot and PilotEdge
 vPilot and PilotEdge model matching files (.vmr) for vintage airliners, GA, and military aircraft using [IVAO MTL models](https://mtl.ivao.aero/catalog) in MSFS. To use these files, install the models using the [IVAO MTL installer](https://mtl.ivao.aero/installer), then add the .vmr files to vPilot and/or the PilotEdge Pilot Client, prioritizing these as necessary (some other model matching like FSLTL may incorrectly substitute modern airliners for vintage type codes (e.g. DAL A320 for DAL MD88).
