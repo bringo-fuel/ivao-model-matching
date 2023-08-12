@@ -12,6 +12,7 @@
     <ModelMatchRule TypeCode="AS32" ModelName="AS32SUI" />
     <ModelMatchRule TypeCode="AS50" ModelName="AS50ZZZ//AS50ZZZ2//AS50ZZZ3" />
     <ModelMatchRule TypeCode="AS65" ModelName="AS65@UG" />
+    <ModelMatchRule TypeCode="B06" ModelName="B407" />
     <ModelMatchRule TypeCode="B1" ModelName="B1USAF" />
     <ModelMatchRule TypeCode="B2" ModelName="B2" />
     <ModelMatchRule TypeCode="B214" ModelName="B214" />
@@ -65,6 +66,8 @@
     <ModelMatchRule TypeCode="EC45" ModelName="H145" />
     <ModelMatchRule TypeCode="EC75" ModelName="EC75" />
     <ModelMatchRule TypeCode="E300" ModelName="E300" />
+    <ModelMatchRule TypeCode="E3CF" ModelName="E3CFOAN//E3CFOAN2//E3CFOAN3//E3CFOAN4" />
+    <ModelMatchRule TypeCode="E3TF" ModelName="E3CFOAN//E3CFOAN2//E3CFOAN3//E3CFOAN4" />
     <ModelMatchRule TypeCode="E55P" ModelName="E55P" />
     <ModelMatchRule TypeCode="EUFI" ModelName="EUFI" />
     <ModelMatchRule TypeCode="F117" ModelName="F117" />
@@ -73,6 +76,7 @@
     <ModelMatchRule TypeCode="F18H" ModelName="F18USN//F18RCAF" />
     <ModelMatchRule TypeCode="F22" ModelName="F22//F22@UL" />
     <ModelMatchRule TypeCode="F35" ModelName="F35BUSAF//F35BUSMC//F35BUSN" />
+    <ModelMatchRule TypeCode="F4" ModelName="F4TD//F4GAF//F4JSDF//F4MTA" />
     <ModelMatchRule TypeCode="F5" ModelName="F5" />
     <ModelMatchRule TypeCode="FA7X" ModelName="FA7X" />
     <ModelMatchRule TypeCode="FA8X" ModelName="FA8X" />

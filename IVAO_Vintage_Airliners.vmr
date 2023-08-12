@@ -378,6 +378,7 @@
     <ModelMatchRule CallsignPrefix="KLM" TypeCode="MD11" ModelName="MD11KLM" />
     <ModelMatchRule CallsignPrefix="MPH" TypeCode="MD11" ModelName="MD11MPH" />
     <ModelMatchRule CallsignPrefix="TAM" TypeCode="MD11" ModelName="MD11TAM" />
+    <ModelMatchRule CallsignPrefix="THA" TypeCode="MD11" ModelName="MD11THA3" />
     <ModelMatchRule CallsignPrefix="VRG" TypeCode="MD11" ModelName="MD11VRG" />
     <ModelMatchRule CallsignPrefix="VSP" TypeCode="MD11" ModelName="MD11VSP" />
     <!-- MD81 -->
