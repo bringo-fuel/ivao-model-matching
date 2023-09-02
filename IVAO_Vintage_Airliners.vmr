@@ -59,6 +59,7 @@
     <ModelMatchRule CallsignPrefix="QAF" TypeCode="A310" ModelName="A310QAF//A310QAF2" />
     <ModelMatchRule CallsignPrefix="QTR" TypeCode="A310" ModelName="A310QTR" />
     <ModelMatchRule CallsignPrefix="RBA" TypeCode="A310" ModelName="A310RBA" />
+    <ModelMatchRule CallsignPrefix="RCAFl.l;" TypeCode="A310" ModelName="A310RCAFl.l;" />
     <ModelMatchRule CallsignPrefix="RJA" TypeCode="A310" ModelName="A310RJA//A310RJA2//A310RJA3" />
     <ModelMatchRule CallsignPrefix="SAT" TypeCode="A310" ModelName="A310SAT" />
     <ModelMatchRule CallsignPrefix="SBI" TypeCode="A310" ModelName="A310SBI//A310SBI2" />
@@ -99,6 +100,7 @@
     <ModelMatchRule CallsignPrefix="ACP" TypeCode="B722" ModelName="B722ACP" />
     <ModelMatchRule CallsignPrefix="ARG" TypeCode="B722" ModelName="B722ARG" />
     <ModelMatchRule CallsignPrefix="CNT" TypeCode="B722" ModelName="B722CNT" />
+    <ModelMatchRule CallsignPrefix="FAC" TypeCode="B722" ModelName="B722FAC" />
     <ModelMatchRule CallsignPrefix="IFL" TypeCode="B722" ModelName="B722IFL" />
     <ModelMatchRule CallsignPrefix="JUS" TypeCode="B722" ModelName="B722JUS" />
     <ModelMatchRule CallsignPrefix="KII" TypeCode="B722" ModelName="B722KII//B722KII2//B722KII3//B722KIIWL//B722KIIWL2" />
@@ -144,6 +146,7 @@
     <ModelMatchRule CallsignPrefix="KMF" TypeCode="B733" ModelName="B733KMF" />
     <ModelMatchRule CallsignPrefix="KQA" TypeCode="B733" ModelName="B733KQACRG" />
     <ModelMatchRule CallsignPrefix="KQA" TypeCode="B733" ModelName="B733KQA" />
+    <ModelMatchRule CallsignPrefix="LNK" TypeCode="B733" ModelName="B733LNK" />
     <ModelMatchRule CallsignPrefix="MSA" TypeCode="B733" ModelName="B733MSA" />
     <ModelMatchRule CallsignPrefix="MYU" TypeCode="B733" ModelName="B733MYU" />
     <ModelMatchRule CallsignPrefix="NAC" TypeCode="B733" ModelName="B733NAC" />
@@ -180,6 +183,7 @@
     <ModelMatchRule CallsignPrefix="FPO" TypeCode="B734" ModelName="B734FPO" />
     <ModelMatchRule CallsignPrefix="GHN" TypeCode="B734" ModelName="B734GHN" />
     <ModelMatchRule CallsignPrefix="HAT" TypeCode="B734" ModelName="B734HAT" />
+    <ModelMatchRule CallsignPrefix="JTA" TypeCode="B734" ModelName="B734JTA" />
     <ModelMatchRule CallsignPrefix="LMA" TypeCode="B734" ModelName="B734LMA" />
     <ModelMatchRule CallsignPrefix="MAR" TypeCode="B734" ModelName="B734MAR" />
     <ModelMatchRule CallsignPrefix="MSA" TypeCode="B734" ModelName="B734MSA" />
@@ -239,6 +243,7 @@
     <ModelMatchRule CallsignPrefix="ABD" TypeCode="B744" ModelName="B744ABD//B744ABD2//B744ABD3//B744ABD4" />
     <ModelMatchRule CallsignPrefix="ABW" TypeCode="B744" ModelName="B744ABW" />
     <ModelMatchRule CallsignPrefix="ACP" TypeCode="B744" ModelName="B744ACP" />
+    <ModelMatchRule CallsignPrefix="ADZ" TypeCode="B744" ModelName="B744ADZ" />
     <ModelMatchRule CallsignPrefix="AIR" TypeCode="B744" ModelName="B744AIR" />
     <ModelMatchRule CallsignPrefix="ARG" TypeCode="B744" ModelName="B744ARG" />
     <ModelMatchRule CallsignPrefix="AZG" TypeCode="B744" ModelName="B744AZG" />
@@ -247,6 +252,7 @@
     <ModelMatchRule CallsignPrefix="CAO" TypeCode="B744" ModelName="B744CAO" />
     <ModelMatchRule CallsignPrefix="CCA" TypeCode="B744" ModelName="B744CCA" />
     <ModelMatchRule CallsignPrefix="CKS" TypeCode="B744" ModelName="B744CKS" />
+    <ModelMatchRule CallsignPrefix="CKK" TypeCode="B744" ModelName="B744CKK" />
     <ModelMatchRule CallsignPrefix="CKY" TypeCode="B744" ModelName="B744CKY" />
     <ModelMatchRule CallsignPrefix="CLX" TypeCode="B744" ModelName="B744CLX" />
     <ModelMatchRule CallsignPrefix="CPA" TypeCode="B744" ModelName="B744CPA" />
@@ -349,6 +355,16 @@
     <ModelMatchRule CallsignPrefix="VUN" TypeCode="F28" ModelName="F28VUN" />
     <ModelMatchRule TypeCode="F28" ModelName="F28ZZZ" />
     <!-- F70 -->
+    <ModelMatchRule TypeCode="F70ANG" ModelName="F70ANG" />
+    <ModelMatchRule TypeCode="F70AUA" ModelName="F70AUA" />
+    <ModelMatchRule TypeCode="F70EDR" ModelName="F70EDR" />
+    <ModelMatchRule TypeCode="F70JRC" ModelName="F70JRC" />
+    <ModelMatchRule TypeCode="F70KLC" ModelName="F70KLC//F70KLC2//F70KLC3" />
+    <ModelMatchRule TypeCode="F70NAF" ModelName="F70NAF" />
+    <ModelMatchRule TypeCode="F70NLU" ModelName="F70NLU" />
+    <ModelMatchRule TypeCode="F70TNU" ModelName="F70TNU" />
+    <ModelMatchRule TypeCode="F70TYR" ModelName="F70TYR" />
+    <ModelMatchRule TypeCode="F70UTY" ModelName="F70UTY" />
     <ModelMatchRule TypeCode="F70" ModelName="F70ZZZ" />
     <!-- F100 -->
     <ModelMatchRule CallsignPrefix="CBE" TypeCode="F100" ModelName="F100CBE" />
