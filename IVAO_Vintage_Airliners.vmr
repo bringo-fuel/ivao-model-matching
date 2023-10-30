@@ -83,10 +83,35 @@
     <ModelMatchRule CallsignPrefix="WTJ" TypeCode="A310" ModelName="A310WTJ" />
     <ModelMatchRule TypeCode="A310" ModelName="A310AIB" />
     <!-- A343 -->
+    <ModelMatchRule CallsignPrefix="ABB" TypeCode="A343" ModelName="A343ABB" />
     <ModelMatchRule CallsignPrefix="AFR" TypeCode="A343" ModelName="A343AFR" />
+    <ModelMatchRule CallsignPrefix="ALK" TypeCode="A343" ModelName="A343ALK" />
+    <ModelMatchRule CallsignPrefix="ARG" TypeCode="A343" ModelName="A343ARG//A343ARG2" />
+    <ModelMatchRule CallsignPrefix="CAL" TypeCode="A343" ModelName="A343CAL" />
+    <ModelMatchRule CallsignPrefix="DLH" TypeCode="A343" ModelName="A343DLH//A343DLH2//A343DLH3" />
+    <ModelMatchRule CallsignPrefix="EDW" TypeCode="A343" ModelName="A343EDW" />
+    <ModelMatchRule CallsignPrefix="ETR" TypeCode="A343" ModelName="A343ETR" />
     <ModelMatchRule CallsignPrefix="EWG" TypeCode="A343" ModelName="A343EWG" />
+    <ModelMatchRule CallsignPrefix="FIN" TypeCode="A343" ModelName="A343FIN" />
+    <ModelMatchRule CallsignPrefix="GAF" TypeCode="A343" ModelName="A343GAF" />
+    <ModelMatchRule CallsignPrefix="HFY" TypeCode="A343" ModelName="A343HFY//A343HFY2" />
+    <ModelMatchRule CallsignPrefix="IBE" TypeCode="A343" ModelName="A343IBE" />
     <ModelMatchRule CallsignPrefix="IRC" TypeCode="A343" ModelName="A343IRC" />
+    <ModelMatchRule CallsignPrefix="IRC" TypeCode="A343" ModelName="A343IRC" />
+    <ModelMatchRule CallsignPrefix="IRM" TypeCode="A343" ModelName="A343IRM" />
+    <ModelMatchRule CallsignPrefix="MAU" TypeCode="A343" ModelName="A343MAU" />
+    <ModelMatchRule CallsignPrefix="MDG" TypeCode="A343" ModelName="A343MDG" />
+    <ModelMatchRule CallsignPrefix="SAA" TypeCode="A343" ModelName="A343SAA" />
+    <ModelMatchRule CallsignPrefix="SAS" TypeCode="A343" ModelName="A343SAS" />
+    <ModelMatchRule CallsignPrefix="SLM" TypeCode="A343" ModelName="A343SLM" />
+    <ModelMatchRule CallsignPrefix="SWR" TypeCode="A343" ModelName="A343SWR" />
+    <ModelMatchRule CallsignPrefix="SWR" TypeCode="A343" ModelName="A343SWR" />
+    <ModelMatchRule CallsignPrefix="SYR" TypeCode="A343" ModelName="A343SYR" />
+    <ModelMatchRule CallsignPrefix="TAP" TypeCode="A343" ModelName="A343TAP" />
+    <ModelMatchRule CallsignPrefix="THT" TypeCode="A343" ModelName="A343THT" />
     <ModelMatchRule CallsignPrefix="USY" TypeCode="A343" ModelName="A343USY" />
+    <ModelMatchRule CallsignPrefix="USY" TypeCode="A343" ModelName="A343USY" />
+    <ModelMatchRule CallsignPrefix="VCV" TypeCode="A343" ModelName="A343VCV" />
     <!-- AN24 -->
     <ModelMatchRule CallsignPrefix="AFL" TypeCode="AN24" ModelName="AN24AFL" />
     <ModelMatchRule CallsignPrefix="AGU" TypeCode="AN24" ModelName="AN24AGU" />
