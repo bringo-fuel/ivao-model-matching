@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+    <!-- AWE: US Airways / America West -->
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="A319" ModelName="A319AWE//A319AWE2" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="A320" ModelName="A320AWE//A320AWE2" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="A321" ModelName="A321AWE" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="A332" ModelName="A332AWE" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="A333" ModelName="A333AWE" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="B732" ModelName="B732AWE" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="B733" ModelName="B733AWE//B733AWE2" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="B734" ModelName="B734AWE" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="B752" ModelName="B752AWE//B752AWE2//B752AWEWL" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="CRJ2" ModelName="CRJ2AWE//CRJ2AWEOLD" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="E145" ModelName="E145AWE" />
+    <ModelMatchRule CallsignPrefix="AWE" TypeCode="E170" ModelName="E170AWE" />
+    <!-- BER: Air Berlin -->
+    <ModelMatchRule CallsignPrefix="BER" TypeCode="A320" ModelName="A320BER//A320BERWL" />
+    <ModelMatchRule CallsignPrefix="BER" TypeCode="A321" ModelName="A321BER" />
+    <ModelMatchRule CallsignPrefix="BER" TypeCode="B738" ModelName="B738BER" />
+    <ModelMatchRule CallsignPrefix="BER" TypeCode="DH8D" ModelName="DH8DBER" />
+    <!-- COA: Continental -->
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="A30B" ModelName="A30BCOA//A30BCOA2" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B722" ModelName="B722COA//B722COA2" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B732" ModelName="B732COA//B732COA2" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B733" ModelName="B733COA//B733COA2" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B735" ModelName="B735COA//B735COAWL" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B737" ModelName="B737COA//B737COAWL" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B738" ModelName="B738COA//B738COAWL" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B739" ModelName="B739COA//B739COAWL" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B742" ModelName="B742COA//B742COA2" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B752" ModelName="B752COA" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B753" ModelName="B753COA//B753COA2" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B764" ModelName="B764COA" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="B772" ModelName="B772COA" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="DC10" ModelName="DC10COA//DC10COA2" />
+    <ModelMatchRule CallsignPrefix="COA" TypeCode="MD82" ModelName="MD82COA//MD82COA2" />
+    <!-- NWA: Northwest -->
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="A319" ModelName="A319NWA" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="A320" ModelName="A320NWA" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="A333" ModelName="A333NWA" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="B722" ModelName="B722NWA" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="B742" ModelName="B742NWA//B742NWA2//B742NWACRG" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="B744" ModelName="B744NWA" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="B752" ModelName="B752NWA//B752NWA2" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="B753" ModelName="B753NWA//B753NWA2" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="DC10" ModelName="DC10NWA//DC10NWA2" />
+    <ModelMatchRule CallsignPrefix="NWA" TypeCode="MD82" ModelName="MD82NWA" />
+</ModelMatchRuleSet>

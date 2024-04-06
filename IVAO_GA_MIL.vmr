@@ -17,27 +17,30 @@
     <ModelMatchRule TypeCode="B2" ModelName="B2@UL//B2@UL2" />
     <ModelMatchRule TypeCode="B214" ModelName="B214" />
     <ModelMatchRule TypeCode="B222" ModelName="B222TXH" />
+    <ModelMatchRule TypeCode="B300" ModelName="B350" />
     <ModelMatchRule TypeCode="B350" ModelName="B350" />
     <ModelMatchRule CallsignPrefix="GAJ" TypeCode="B350" ModelName="B350GAJ" />
     <ModelMatchRule CallsignPrefix="NOAA" TypeCode="B350" ModelName="B350NOAA" />
-    <ModelMatchRule TypeCode="B407" ModelName="B407" />
+    <ModelMatchRule TypeCode="B407" ModelName="B407//Bell 407 Blue Stripes//Bell 407 Orange Stripes//Bell 407 Red Stripes//Bell 407 Black-Orange//Bell 407 Blue-Gray//Bell 407 Green-Black//Bell 407 Red-Tan//Bell 407 Red-Yellow" />
     <ModelMatchRule TypeCode="BE35" ModelName="BE35" />
-    <ModelMatchRule TypeCode="BE36" ModelName="BE36" />
+    <ModelMatchRule TypeCode="BE36" ModelName="BE36//Bonanza G36 Asobo//Bonanza G36 01 Livery" />
     <ModelMatchRule TypeCode="BE40" ModelName="BE40ZZZ" />
-    <ModelMatchRule TypeCode="BE58" ModelName="BE58ZZZ" />
+    <ModelMatchRule TypeCode="BE58" ModelName="BE58//Asobo Baron G58" />
     <ModelMatchRule TypeCode="BH06" ModelName="B407" />
+    <ModelMatchRule TypeCode="BUC" ModelName="BUCNVY//BUCNVY2//BUCNVY3//BUCNVY4//BUCNVY5//BUCSAF" />
     <ModelMatchRule TypeCode="C101" ModelName="C101" />
     <ModelMatchRule TypeCode="C130" ModelName="C130" />
     <ModelMatchRule TypeCode="C17" ModelName="C17HAW//C17RCH//C17ASY//C17RCAF//C17IFC//C17RRR//C17UAF" />
     <ModelMatchRule TypeCode="C30J" ModelName="C130" />
     <ModelMatchRule TypeCode="C150" ModelName="C152" />
-    <ModelMatchRule TypeCode="C152" ModelName="C152" />
+    <ModelMatchRule TypeCode="C152" ModelName="C152//Cessna 152 01 Livery" />
     <ModelMatchRule TypeCode="C160" ModelName="C160CTM2//C160CTM//C160FAF//C160FAF2//C160GAF2//C160CAG/C160HVK" />
-    <ModelMatchRule TypeCode="C172" ModelName="C172" />
+    <ModelMatchRule TypeCode="C172" ModelName="C172//Cessna Skyhawk 172Sp Classic 01 Livery//Cessna Skyhawk Asobo" />
     <ModelMatchRule CallsignPrefix="BVN" TypeCode="C208" ModelName="C208BVN" />
     <ModelMatchRule CallsignPrefix="CFS" TypeCode="C208" ModelName="C208FDX" />
     <ModelMatchRule CallsignPrefix="PCM" TypeCode="C208" ModelName="C208FDX" />
     <ModelMatchRule CallsignPrefix="WIG" TypeCode="C208" ModelName="C208FDX" />
+    <ModelMatchRule TypeCode="C207" ModelName="C207ZZZ//C207ZZZ2//C207ZZZ3" />
     <ModelMatchRule TypeCode="C208" ModelName="C208" />
     <ModelMatchRule TypeCode="C25A" ModelName="C25A" />
     <ModelMatchRule TypeCode="C25B" ModelName="C25BZZZ" />
@@ -46,7 +49,7 @@
     <ModelMatchRule TypeCode="C414" ModelName="C414" />
     <ModelMatchRule TypeCode="C510" ModelName="C510" />
     <ModelMatchRule TypeCode="C5" ModelName="C5USAF" />
-    <ModelMatchRule TypeCode="C700" ModelName="C700ZZZ" />
+    <ModelMatchRule TypeCode="C700" ModelName="C700ZZZ//Cessna Longitude Asobo" />
     <ModelMatchRule TypeCode="C750" ModelName="C750" />
     <ModelMatchRule TypeCode="CC19" ModelName="CC19" />
     <ModelMatchRule TypeCode="CH47" ModelName="CH47USA/CH47USA2//CH47UNO//CH47AME//CH47NFA//CH47RAF//CH47EGY//CH47ROCA//CH47JNTD//CH47JSDF//CH47AMI" />
@@ -59,9 +62,10 @@
     <ModelMatchRule CallsignPrefix="NJE" TypeCode="CL35" ModelName="CL35NJE" />
     <ModelMatchRule TypeCode="CL60" ModelName="CL60ZZZ//CL65EJA" />
     <ModelMatchRule CallsignPrefix="EJA" TypeCode="CL60" ModelName="CL65EJA" />
-    <ModelMatchRule TypeCode="CN35" ModelName="CN35USAF//CN35@UG" />
+    <ModelMatchRule TypeCode="CN35" ModelName="CN35USAF//CN35@UG//CN35@DZ//CN35IRL//CN35KAF//CN35@KR//CN35RMAF//CN35ROP//CN35LMG" />
     <ModelMatchRule TypeCode="CONI" ModelName="CONIDLH" />
     <ModelMatchRule TypeCode="DA40" ModelName="DA40" />
+    <ModelMatchRule TypeCode="DA42" ModelName="DA42" />
     <ModelMatchRule TypeCode="DA62" ModelName="DA62" />
     <ModelMatchRule TypeCode="DC3" ModelName="DC3" />
     <ModelMatchRule TypeCode="DC6" ModelName="DC6ZZZ//DC6ZZZ2//DC6ZZZ3//DC6ZZZ4//DC6ZZZ6" />
@@ -74,13 +78,15 @@
     <ModelMatchRule TypeCode="E300" ModelName="E300" />
     <ModelMatchRule TypeCode="E3CF" ModelName="E3CFOAN//E3CFOAN2//E3CFOAN3//E3CFOAN4" />
     <ModelMatchRule TypeCode="E3TF" ModelName="E3CFOAN//E3CFOAN2//E3CFOAN3//E3CFOAN4" />
+    <ModelMatchRule TypeCode="E50P" ModelName="E50PZZZ" />
     <ModelMatchRule TypeCode="E55P" ModelName="E55P" />
     <ModelMatchRule TypeCode="EUFI" ModelName="EUFIGAF//EUFIIAM//EUFIQEAF//EUFIRFR//EUFIMJN//EUFIRSF//EUFIAME" />
     <ModelMatchRule TypeCode="F117" ModelName="F117" />
     <ModelMatchRule TypeCode="F14" ModelName="F14@UN//F14@UN2//F14@UN3//F14@UN4//F14@UN5//F14@UN6//F14@UN7//F14@NA//F14@IR//F14@IR2" />
     <ModelMatchRule TypeCode="F16" ModelName="F16 RT//F16 @UL//F16 @ULTB//F16 BAF//F16 HEC//F16 IDAF//F16 @RB//F16 UAF//F16 @UN" />
-    <ModelMatchRule TypeCode="F18H" ModelName="F18USN//F18RCAF" />
+    <ModelMatchRule TypeCode="F18H" ModelName="F18@NS//F18USN//F18RCAF//F18USN2" />
     <ModelMatchRule TypeCode="F22" ModelName="F22//F22@UL" />
+    <ModelMatchRule TypeCode="F260" ModelName="F260ZZZ//F260RSV" />
     <ModelMatchRule TypeCode="F35" ModelName="F35BUSAF//F35BUSMC//F35BUSN//F35ABAF" />
     <ModelMatchRule TypeCode="F4" ModelName="F4TD//F4GAF//F4JSDF//F4MTA" />
     <ModelMatchRule TypeCode="F5" ModelName="F5" />
@@ -102,7 +108,7 @@
     <ModelMatchRule TypeCode="H60" ModelName="H60ZZZ//H60ZZZ2//H60ZZZ3//H60ZZZ2//H60ZZZ4//H60ZZZ5//H60ZZZ6//H60HRZ//H60GCB" />
     <ModelMatchRule TypeCode="HAR" ModelName="HAR//HARRAF//HARRN//HARUSMC//HARAOS//HARSN" />
     <ModelMatchRule TypeCode="HDJT" ModelName="HDJT" />
-    <ModelMatchRule TypeCode="J3" ModelName="J3ZZZ" />
+    <ModelMatchRule TypeCode="J3" ModelName="J3 ZZZ" />
     <ModelMatchRule TypeCode="JU52" ModelName="JU52" />
     <ModelMatchRule TypeCode="L39" ModelName="L39ATAC//L39CEF//L39RTAF//L39SQF" />
     <ModelMatchRule TypeCode="KODI" ModelName="KODIZZZ" />
@@ -120,13 +126,17 @@
     <ModelMatchRule TypeCode="M339" ModelName="M339IAM" />
     <ModelMatchRule TypeCode="MD52" ModelName="MD52ZZZ" />
     <ModelMatchRule TypeCode="MG29" ModelName="MG29@UF5" />
+    <ModelMatchRule TypeCode="MI8" ModelName="MI8 FAN//MI8 CEF//MI8 CEFSAR//MI8 AFS//MI8 @SD //MI8 @YA//MI8 YA2" />
     <ModelMatchRule TypeCode="MIR2" ModelName="MIR2CTM//MIR2IFC//MIR2AEAF//MIR2UAF" />
+    <ModelMatchRule TypeCode="MU2" ModelName="MU2ZZZ" />
     <ModelMatchRule TypeCode="P28A" ModelName="P28A" />
     <ModelMatchRule TypeCode="P28R" ModelName="P28RZZZ" />
     <!-- P46T Placeholder -->
     <ModelMatchRule TypeCode="P46T" ModelName="TBM9" />
     <ModelMatchRule TypeCode="P8" ModelName="P8USN//P8IFC//P8RAAF//P8KIW//P8NOW//P8RCAF" />
     <ModelMatchRule TypeCode="PA24" ModelName="PA24//PA24ZZZ2//PA24ZZZ3" />
+    <ModelMatchRule TypeCode="PA34" ModelName="PA34" />
+    <ModelMatchRule TypeCode="PA46" ModelName="TBM9" />
     <ModelMatchRule TypeCode="PC6P" ModelName="PC6" />
     <ModelMatchRule TypeCode="PC12" ModelName="PC12ZZZ//PC12ZZZ5//PC12ZZZ6//PC12ZZZ7//PC12ZZZ8//PC12ZZZ9" />
     <ModelMatchRule TypeCode="PC21" ModelName="PC21//PC21ASY" />
@@ -139,12 +149,14 @@
     <ModelMatchRule TypeCode="S208" ModelName="S208IAM" />
     <ModelMatchRule TypeCode="S64" ModelName="S64ZZZ//S64ZZZ2" />
     <ModelMatchRule TypeCode="SAVG" ModelName="SAVG" />
-    <ModelMatchRule TypeCode="SF50" ModelName="SF50ZZZ//SF50ZZZ1" />
+    <ModelMatchRule TypeCode="SF50" ModelName="SF50ZZZ//SF50ZZZ1//SF50ZZZ2" />
     <ModelMatchRule TypeCode="SPIT" ModelName="SPITFAF//SPITNAF" />
     <ModelMatchRule TypeCode="SR22" ModelName="SR22ZZZ//SR22ZZZ1//SR22ZZZ2//SR22ZZZ3//SR22ZZZ4//SR22ZZZ5//SR22ZZZ6//SR22ZZZ7" />
     <ModelMatchRule TypeCode="SR71" ModelName="SR71USAF" />
+    <ModelMatchRule TypeCode="SV4" ModelName="SV4ZZZ//SV4ZZZ2//SV4ZZZ3//SV4ZZZ4//SV4ZZZ5//SV4ZZZ6//SV4ZZZ7" />
+    <ModelMatchRule TypeCode="TBM8" ModelName="TBM9" />
     <ModelMatchRule TypeCode="TBM9" ModelName="TBM9" />
-    <ModelMatchRule TypeCode="T38" ModelName="T38" />
+    <ModelMatchRule TypeCode="T38" ModelName="T38//T38@NA//T38HVK//T38@BB/T38@CB//T38@ED//T38@HT//T38@HT//T38@XL//T38@RA//T38@EN//T38@WM//T38@TB//T38USN" />
     <ModelMatchRule TypeCode="TEX2" ModelName="TEX2CFC//TEX2USAF//TEX2USN//TEX2KIW" />
     <ModelMatchRule TypeCode="ULAC" ModelName="LONGEZ" />
     <ModelMatchRule TypeCode="V22" ModelName="V22" />
