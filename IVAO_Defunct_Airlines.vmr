@@ -34,6 +34,12 @@
     <ModelMatchRule CallsignPrefix="COA" TypeCode="B772" ModelName="B772COA" />
     <ModelMatchRule CallsignPrefix="COA" TypeCode="DC10" ModelName="DC10COA//DC10COA2" />
     <ModelMatchRule CallsignPrefix="COA" TypeCode="MD82" ModelName="MD82COA//MD82COA2" />
+    <!-- CDN: Canadian -->
+    <ModelMatchRule CallsignPrefix="CDN" TypeCode="A230" ModelName="A320CDN//A320CDN2" />
+    <ModelMatchRule CallsignPrefix="CDN" TypeCode="B763" ModelName="B763CDN" />
+    <!-- TRS: LTU -->
+    <ModelMatchRule CallsignPrefix="LTU" TypeCode="A320" ModelName="A320LTU//A320LTU3" />
+    <ModelMatchRule CallsignPrefix="LTU" TypeCode="MD11" ModelName="MD11LTU" />
     <!-- NWA: Northwest -->
     <ModelMatchRule CallsignPrefix="NWA" TypeCode="A319" ModelName="A319NWA" />
     <ModelMatchRule CallsignPrefix="NWA" TypeCode="A320" ModelName="A320NWA" />
@@ -45,4 +51,15 @@
     <ModelMatchRule CallsignPrefix="NWA" TypeCode="B753" ModelName="B753NWA//B753NWA2" />
     <ModelMatchRule CallsignPrefix="NWA" TypeCode="DC10" ModelName="DC10NWA//DC10NWA2" />
     <ModelMatchRule CallsignPrefix="NWA" TypeCode="MD82" ModelName="MD82NWA" />
+    <!-- TAE: TAME -->
+    <ModelMatchRule CallsignPrefix="TAE" TypeCode="A319" ModelName="A319TAE" />
+    <ModelMatchRule CallsignPrefix="TAE" TypeCode="A320" ModelName="A320TAE" />
+    <ModelMatchRule CallsignPrefix="TAE" TypeCode="AT45" ModelName="AT45TAE" />
+    <ModelMatchRule CallsignPrefix="TAE" TypeCode="E170" ModelName="E170TAE" />
+    <ModelMatchRule CallsignPrefix="TAE" TypeCode="E190" ModelName="E190TAE" />
+    <ModelMatchRule CallsignPrefix="TAE" TypeCode="F28" ModelName="F28TAE" />
+    <!-- TRS: AirTran -->
+    <ModelMatchRule CallsignPrefix="TRS" TypeCode="B712" ModelName="B712TRS" />
+    <ModelMatchRule CallsignPrefix="TRS" TypeCode="B737" ModelName="B737TRSWL" />
+    <ModelMatchRule CallsignPrefix="TRS" TypeCode="CRJ2" ModelName="CRJ2TRS" />
 </ModelMatchRuleSet>
